@@ -1,7 +1,7 @@
 ---
 title: Functions
 description: ''
-# position: 3
+position: 3
 category: Guide
 ---
 

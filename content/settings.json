@@ -1,10 +1,10 @@
 {
   "title": "Udacity - Intermediate JavaScript Course",
-  "url": "https://udacity-intermediate-javascript.netlify.app",
+  "url": "https://nuxtdocs-devnotes.netlify.app",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
-  "github": "davidroyer/udacity-intermediate-javascript",
+  "github": "davidroyer/nuxtdocs-devnotes",
   "twitter": "@DavidRoyer_"
 }

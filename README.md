@@ -1,4 +1,4 @@
-# udacity-intermediate-javascript
+# nuxtdocs-devnotes
 
 ## Setup
 
